@@ -14,37 +14,37 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "26090016",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "5b842f9801712684f2b98d70ead6538d",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6449365688:AAE9qQeqdHq_aHCSSqLabEHhzyiGicV89j0",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://fridabisov26:feridabusov2@cluster0.rrmqdo9.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "5822700831",
+        "value": "6997801235",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @Venom_string_robot on Telegram.",
-        "value": "",
+        "value": "AgGz374AbjYmctiWofO-3-ko8ZY-saW-L9bCt3TOzqa75dS4cc9pPgZ5x-MqBWEfGh4ksPzM1f97UCOUOagZE4cXNlg09CBtVpivTkqx0nVxRNTmtiS0Y3ka-KhCJfdzbgJT8FjQ_doRX8MBiggC6FaN6O6mFtZ1FIKcr1GlL-0Dl0yjJUyvR2jFZPcMdY8gZ6NFQZjYh6LRctBPsdIGyXvqb7ZoYUYALWxuqbgEFASxX7b4JsxkOOZX1LSs2Nq4hlRzc3pjV3RF1OJEbkjbVU7LlYSkxbsqTINcRjMQqR7wWHdsv6DPr8mN-H8RwD9iA6R854ux0sWwrvyifWxb83Ikb39pLQAAAAFPGm-xAA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "HRKU-0607be66-75af-4a62-a4a5-2d203a8f002b",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-1002143361911",
         "required": true
       }
     },
